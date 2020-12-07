@@ -1,0 +1,11 @@
+.addstore {
+  padding: 2rem;
+}
+
+.addstore__header {
+  /* margin-left: 3rem; */
+  color: #282c34;
+}
+.addstore__form__container {
+  display: flex;
+}
